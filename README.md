@@ -35,10 +35,6 @@
 
 -----
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ## Мои интересные проекты
 Два моих проекта, о которых хочется рассказать:
 
@@ -72,10 +68,6 @@
 >GitHub Repo этого [проекта](https://github.com/Lawliet2012/dmvpn-move-to-rsa "dmvpn-move-to-rsa")
 
 -----
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 ## Немного о себе
 
